@@ -29,7 +29,9 @@ Connectivity options: WiFi, Bluetooth, 3G, 4G
 Other attributes: number of cores, clock speed, talk time
 
 c.Models Used
+
 The following models are used for training and are available in dropdown to select :
+
 1.Logistic Regression 
 
 2. Decision Tree Classier
@@ -81,6 +83,7 @@ d.Model Comparison
 
 
 Conclusion : Random Forest and XGBoost ensemble models performed better compared to the other four models, demonstrating the effectiveness of ensemble learning techniques for this classification task.
+
 
 
 
