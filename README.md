@@ -7,20 +7,29 @@ Low, Medium, High, or Very High. This is a multi-class classification problem, w
 b.Data-set Description : The dataset used in this project is the Mobile Price Classification Dataset, commonly used for supervised learning tasks.
 
 Source: Kaggle (Mobile Price Classification dataset)
+
 Number of Records: ~2000 records
+
 Number of features: 20 input features
+
 Target variable: price_range
+
 Problem type: Multi-class classification
 
 Features :
+
 Hardware specifications: battery power, RAM, internal memory, mobile weight
+
 Display properties: screen height, screen width, pixel resolution
+
 Camera features: front and primary camera megapixels
+
 Connectivity options: WiFi, Bluetooth, 3G, 4G
+
 Other attributes: number of cores, clock speed, talk time
+
 c.Models Used
 The following models are used for training and are available in dropdown to select :
-
 1.Logistic Regression 
 
 2. Decision Tree Classier
@@ -72,6 +81,7 @@ d.Model Comparison
 
 
 Conclusion : Random Forest and XGBoost ensemble models performed better compared to the other four models, demonstrating the effectiveness of ensemble learning techniques for this classification task.
+
 
 
 
