@@ -1,5 +1,6 @@
 
 Mobile Price Classification
+
 a.Problem Statement : The objective of this project is to develop a machine learning–based classification system that predicts the price range of a mobile phone based on its technical specifications. Given various features such as battery power, RAM, internal memory, screen size, camera resolution, and connectivity options, the task is to classify each mobile phone into one of four price categories:
 Low, Medium, High, or Very High. This is a multi-class classification problem, where the goal is to build, evaluate, and compare multiple machine learning models to identify the most effective approach for accurate price range prediction.
 
@@ -59,4 +60,5 @@ d.Model Comparison
 
 
 Conclusion : Random Forest and XGBoost ensemble models performed better compared to the other four models, demonstrating the effectiveness of ensemble learning techniques for this classification task.
+
 
