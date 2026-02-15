@@ -11,6 +11,7 @@ Number of Records: ~2000 records
 Number of features: 20 input features
 Target variable: price_range
 Problem type: Multi-class classification
+
 Features :
 Hardware specifications: battery power, RAM, internal memory, mobile weight
 Display properties: screen height, screen width, pixel resolution
@@ -19,20 +20,31 @@ Connectivity options: WiFi, Bluetooth, 3G, 4G
 Other attributes: number of cores, clock speed, talk time
 c.Models Used
 The following models are used for training and are available in dropdown to select :
+
 1.Logistic Regression 
+
 2. Decision Tree Classier
+
 3. K-Nearest Neighbor Classier 
+
 4. Naive Bayes Classier - Gaussian or Multinomial
+
 5. Ensemble Model - Random Forest
+
 6. Ensemble Model - XGBoost 
 
 For each of the models above, calculated the following evaluation  metrics: 
 
 1.Accuracy
+
 2.AUC Score
+
 3.Precision
+
 4.Recall
+
 5.F1 Score
+
 6.MCC Score	
 
 Metrics comparison is depicted below
@@ -60,5 +72,6 @@ d.Model Comparison
 
 
 Conclusion : Random Forest and XGBoost ensemble models performed better compared to the other four models, demonstrating the effectiveness of ensemble learning techniques for this classification task.
+
 
 
